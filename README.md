@@ -1,6 +1,5 @@
 # Data Warehousing and Analytics
-This repo showcases a complete data warehousing and analytics solution, starting from building the data warehouse to creating valuable insights from the data. 
-It is designed to demonstrate strong skills in data engineering and analytics, following industry best practices throughout the process.
+This repo showcases a complete data warehousing and analytics solution, starting from building the data warehouse to creating valuable insights from the data.
 
 ## Overview
 This project includes the following components:
@@ -62,3 +61,4 @@ The project is organized into the following directories:
 ├── README.md 
 ```
      
+
